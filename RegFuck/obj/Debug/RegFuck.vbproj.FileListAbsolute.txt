@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\bin\Debug\RegFuck.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\bin\Debug\RegFuck.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\bin\Debug\RegFuck.pdb
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.Form2.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.Form3.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.Form4.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.exe
+C:\Users\MONSTERMC\Desktop\New folder (3)\RegFuck\obj\Debug\RegFuck.pdb
